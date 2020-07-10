@@ -1,0 +1,9 @@
+[[CUTENSOR_CUDA110]]
+arch = "x86_64"
+git-tree-sha1 = "5676355e1994b73b2f11b154e4b00780ac4c21d7"
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR_CUDA110.download]]
+    sha256 = "1402d11ee5f1c51ad270b4ac0001c4ef4e36e456b6d6078d90d52e1292f40685"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA110_jll.jl/releases/download/CUTENSOR_CUDA110-v1.1.0+0/CUTENSOR_CUDA110.v1.1.0.x86_64-linux-gnu.tar.gz"
